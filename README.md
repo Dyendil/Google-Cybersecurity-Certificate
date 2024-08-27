@@ -85,6 +85,7 @@ The files and directories in the projects directory belong to the researcher2 us
 Describe the command you used and its output in the Change directory permissions section of the File permissions in Linux template. In the Manage authorization lab, take a screenshot of the Linux command you used. Or, type this command directly into the template.
 
 <h2>Step 8: Finalize your document</h2>
+<h1>Summary</h1>
 To finalize the document and make its purpose clear to potential employers, be sure to complete the Project description and Summary sections of the File permissions in Linux template. 
 
 In the Project description section, give a general overview of the scenario and what you accomplish through Linux. Write two to four sentences.
@@ -109,8 +110,3 @@ Details on checking file permissions with ls -la
 Details on interpreting the 10-character string that represents file permissions
 
 Details on hidden files and directories
-
-<h2>Step 9: Assess your activity</h2>
-The following is a  self-assessment for your Use Linux commands to manage file permissions portfolio activity. You will use these statements to review your own work. The self-assessment process is an important part of the learning experience because it allows you to objectively assess your Use Linux commands to manage file permissions portfolio activity.
-
-<h2>Summary</h2>

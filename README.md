@@ -110,3 +110,5 @@ Details on checking file permissions with ls -la
 Details on interpreting the 10-character string that represents file permissions
 
 Details on hidden files and directories
+![image](https://github.com/user-attachments/assets/3b2f2de8-324f-4394-8868-56e242b8722a)
+

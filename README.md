@@ -111,4 +111,4 @@ Details on interpreting the 10-character string that represents file permissions
 
 Details on hidden files and directories
 ![image](https://github.com/user-attachments/assets/3b2f2de8-324f-4394-8868-56e242b8722a)
-
+[Reference guide: Linux](https://docs.google.com/document/d/1flGzGBZBo8vtX6Wiphf0K78yeL9OhQ-o9ShCX8K58CA/template/preview?usp=sharing)
